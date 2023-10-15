@@ -1,0 +1,84 @@
+div {
+    height: 100px;
+    width: 100px;
+    background-color: aquamarine;
+    border: 1px solid black;
+    
+}
+
+.one {
+    position: absolute;
+    left: 90px;
+    top: 90px;
+}
+.two{
+    position: absolute;
+    left: 190px;
+    top: 90px;
+}
+.three {
+    position: absolute;
+    left: 290px;
+    top: 90px;
+}
+
+.four {
+    position: absolute;
+    left: 90px;
+    top: 190px;
+}
+
+.five{
+    position: absolute;
+    left: 90px;
+    top: 290px;
+}
+
+.six {
+    position: absolute;
+    left: 190px;
+    top: 290px;
+}
+
+.seven {
+    position: absolute;
+    left: 290px;
+    top: 290px;
+}
+
+.eight {
+    position: absolute;
+    left: 90px;
+    top: 390px;
+}
+
+.nine {
+    position: absolute;
+    left: 90px;
+    top: 490px;
+}
+
+.ten {
+    position: absolute;
+    left: 190px;
+    top:490px ;
+}
+
+.eleven {
+    position: absolute;
+    left: 290px;
+    top: 490px;
+}
+
+
+.bonus {
+    background-color: red;
+    border: black 1px solid;
+    height: 500px;
+    width: 500px;
+    border-radius: 100%;
+    position: absolute;
+    left: 480px;
+    top: 90px;
+}
+
