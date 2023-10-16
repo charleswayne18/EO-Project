@@ -8,68 +8,69 @@ div {
 
 .one {
     position: absolute;
+    top: 90px;
     left: 90px;
-    top: 90px;
 }
-.two{
+
+.two {
     position: absolute;
-    left: 190px;
     top: 90px;
+    left: 190px;
 }
+
 .three {
     position: absolute;
-    left: 290px;
     top: 90px;
+    left: 290px;
 }
 
 .four {
     position: absolute;
-    left: 90px;
     top: 190px;
+    left: 90px;
 }
 
-.five{
+.five {
     position: absolute;
-    left: 90px;
     top: 290px;
+    left: 90px;
 }
 
 .six {
     position: absolute;
-    left: 190px;
     top: 290px;
+    left: 190px;
 }
 
 .seven {
     position: absolute;
-    left: 290px;
     top: 290px;
+    left: 290px;
 }
 
 .eight {
     position: absolute;
-    left: 90px;
     top: 390px;
+    left: 90px;
 }
 
 .nine {
     position: absolute;
-    left: 90px;
     top: 490px;
+    left: 90px;
 }
 
 .ten {
     position: absolute;
-    left: 190px;
     top:490px ;
+    left: 190px;
 }
 
 .eleven {
     position: absolute;
-    left: 290px;
     top: 490px;
+    left: 290px;
 }
-
 
 .bonus {
     background-color: red;
@@ -78,7 +79,7 @@ div {
     width: 500px;
     border-radius: 100%;
     position: absolute;
-    left: 480px;
     top: 90px;
+    left: 480px;
 }
 
